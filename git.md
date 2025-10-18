@@ -70,5 +70,25 @@ Next Time we can use
 ```
 git push
 ```
-## Init Command
-used to initialize git repo
+
+# Branch Commands
+## 1. check Current branch
+```
+git branch
+```
+## 2. Rename Branch
+```
+git branch -M new_name
+```
+## 3. To navigate to other branch
+```
+git checkout branch_name
+```
+## 4. Delete Branch
+```
+git branch -d branch_name
+```
+## 5. Create New Branch
+```
+git checkout -b branch_name
+```
