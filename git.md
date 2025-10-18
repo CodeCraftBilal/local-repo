@@ -92,3 +92,9 @@ git branch -d branch_name
 ```
 git checkout -b branch_name
 ```
+
+# Comapre two Branches
+it will compare current branch with other branch
+```
+git diff [other_branch_name]
+```
